@@ -1,3 +1,0 @@
-([('ForensicsLab',
-   '/Users/dipserishbk/Desktop/Projects_for_Application/forensics_lab/dist/ForensicsLab',
-   'EXECUTABLE')],)
