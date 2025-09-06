@@ -1,0 +1,3 @@
+PyQt5==5.15.9
+pytsk3==20210409
+matplotlib==3.7.2
