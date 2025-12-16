@@ -69,6 +69,7 @@ View results in table, export if needed
 Optional: Create DMG from recovered files (macOS only).
 
 5. Project Structure
+```bash
 forensic-lab/
 ├── forensic_gui.py          # Main application
 ├── requirements.txt         # Dependencies
@@ -84,10 +85,12 @@ forensic-lab/
     │   └── timeline.py     # Timeline
     └── utils/              # Utilities
         └── helpers.py      # Helper functions
+```
 forensic_gui.py: Main GUI and application logic
 src/core/recovery.py: File recovery using pytsk3
 src/core/report.py: CSV/JSON export functions
 src/utils/helpers.py: Hash calculation and formatting
+
 6. Technical Details
 
 Built with PySide6 for the GUI
