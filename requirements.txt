@@ -1,3 +1,4 @@
-PyQt5==5.15.9
-pytsk3==20210409
+PySide6==6.5.0
+pytsk3==20250729
 matplotlib==3.7.2
+numpy==1.24.3
